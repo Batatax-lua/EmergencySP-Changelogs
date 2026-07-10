@@ -1,0 +1,119 @@
+== Update a_0.1.26 == 06/07/26
+# ADIÇÕES
+-
+
+# BUG FIXES
+-
+
+# QOL (QUALITY OF LIFE)
++ Remodelagem do seguinte veículo: Sprinter SAMU (Ainda será adicionado mais lugares/assentos)
++ Salário de Empregos alterado para: R$2.200 e 50 XP (Sistema anti-AFK permancerá ativo)
+
+# MISC
+- Removido Herobrine
+
+== Update a_0.1.25 == 06/07/26
+# ADIÇÕES
+-
+
+# BUG FIXES
+-
+
+# QOL (QUALITY OF LIFE)
+- Padronizado identificações de viaturas PMESP, corretamente seguindo o prefixo do 12º BPM/M
+
+# MISC
+- Removido Herobrine
+
+== Update a_0.1.24 == 06/07/26
+# ADIÇÕES
++ Adicionado os veículos: Corolla e Corolla Cross na concessionária
+
+# BUG FIXES
+-
+
+# QOL (QUALITY OF LIFE)
++ Remodelagem dos seguintes veículos: Corolla Cross, Volkswagen Constellation CBPMESP, Scania P360 CBPMESP
+
+# MISC
+- Removido Herobrine
+
+== Update a_0.1.2 == 04/07/26
+# ADIÇÕES
++ Adicionado sistema anti-farm (AFK)
++ Adicionado sistema de respawn (Com timer)
++ Adicionado os veículos: Pajero, Gol e Palio na concessionária
++ Adicionado nova viatura: Palio PMESP
+
+# BUG FIXES
+* Corrigido bug de animações das motos (Novamente)
+* Corrigido bug de correr para Dispositivos Mobiles
+
+# QOL (QUALITY OF LIFE)
++ Remodelagem dos seguintes veículos: Pajero PCESP, Gol PMESP, Corolla BPRv
++ Giroflex corrigido para o seguinte veículo: Corolla BPRv
+* Rework de direção do Corolla BPRv
+* "Vida" das motos reduzida (Agora corresponde a metade da vida de um veículo 4 Rodas)
+
+# MISC
+- Removido Herobrine
+
+== Update a_0.1.15 == 04/07/26
+# ADIÇÕES
++ Adicionado novo sistema de buzina (Atualmente apenas PC - Tecla H)
++ Adicionado funcionalidade a qual, quando um policial com algemas levar dano, ele não consegue algemar um jogador por um tempo
++ Adicionado o veículo Space Fox na concessionária
+
+# BUG FIXES
+* Corrigido prisão sendo libertado instantaneamente
+* Corrigido bug de animações das motos
+* Corrigido jogadores ficarem sem acessórios próprios (Agora você fica com seus acessórios)
+* Corrigido problema do grau/freio de mão da moto do bombeiro
+
+# QOL (QUALITY OF LIFE)
++ Remodelagem dos seguintes veículos: Space Fox, Uno, Camaro, Corsa, BMWI8, Fusca, HB20, Porsche, SW4, Saveiro, Tucson, Voyage, Gol Novo PMESP, Space Fox PMESP, Ford Ranger PMESP
+
+# MISC
+- Removido Herobrine
++ Adicionado Agnes Tachyon & Manhattan Cafe ao BPM
+
+== Update a_0.1.1 == 01/07/26
+# ADIÇÕES
++ Adicionado novo sistema de câmera em veículos, baseado na câmera antiga
+
+# BUG FIXES
+* Corrigido timer da prisão não aparecer quando saísse e entrasse no jogo enquanto procurado/preso
+* Corrigido estamina infinita quando correndo e mirando
+* Corrigido personagem ficando invisível quando desequipando uma arma em primeira pessoa
+
+# QOL (QUALITY OF LIFE)
++ Aumentada altura da câmera padrão do roblox para ficar mais próximo ao topo da cabeça do personagem
++ Aumentado FOV geral para 70
+
+# MISC
+- Removido Herobrine
+
+== Update a_0.1 == 30/06/26
+# ADIÇÕES
++ Kit médico para o SAMU
+  • Utilizável para curar outros players
++ Sistema de queda do teto de veículos em movimento para evitar camping
++ HUD principal atualizado
++ Novo sistema de giroflex para a Traiblazer 2018/2019 da Polícia Civil
+
+# BUG FIXES
+* Corrigida camera travando atrás do personagem quando em alta velocidade
+* Corrigido bug de stamina infinita ao correr
+* Corrigido árvores sem ancoramento no mapa, fazendo-as empurráveis
+* Corrigido parede do BPRv sem ancoramento, fazendo-a empurrável
+* Corrigido veículos tomando dano sozinhos logo após serem spawnados
+* Corrigido UI de veículos e painéis não descerem completamente
+* Corrigido suspeitos permanecerem pelo local onde foram presos se estivessem sentados
+
+# QOL (QUALITY OF LIFE)
++ Reduzido tempo de prisão: 5s -> 3s
++ Corrigido plotagem do Toyota Corolla BPRv (R-06001)
++ Alterado tecla do freio de mão no PC: P -> Shift Esquerdo
+
+# MISC
+- Removido Herobrine
