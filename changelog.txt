@@ -20,7 +20,7 @@
 -
 
 # QOL (QUALITY OF LIFE)
-- Padronizado identificações de viaturas PMESP, corretamente seguindo o prefixo do 12º BPM/M
++ Padronizado identificações de viaturas PMESP, corretamente seguindo o prefixo do 12º BPM/M
 
 # MISC
 - Removido Herobrine
@@ -74,8 +74,8 @@
 + Remodelagem dos seguintes veículos: Space Fox, Uno, Camaro, Corsa, BMWI8, Fusca, HB20, Porsche, SW4, Saveiro, Tucson, Voyage, Gol Novo PMESP, Space Fox PMESP, Ford Ranger PMESP
 
 # MISC
-- Removido Herobrine
 + Adicionado Agnes Tachyon & Manhattan Cafe ao BPM
+- Removido Herobrine
 
 == Update a_0.1.1 == 01/07/26
 # ADIÇÕES
