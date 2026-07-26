@@ -1,3 +1,57 @@
+== Update b_1.0 == 26/07/26
+# ADIÇÕES
++ Companhia de Engenharia de Tráfego (CET)
++ Sistema de classes por time policial
++ Força Tática (PMESP), Tático Ostensivo Rodoviário (BPRv), Grupo Armado de Repressão a Roubos e Assaltos (PCESP)
+  + Requisito de 17.500 XP nos respectivos times
++ Novo sistema PvP
+  + Levar dano possui uma chance de 20% de sangramento
+    + Enquanto sangrando, o player toma Damage over Time (DoT), para parar o sangramento, precisa utilizar uma maca no hospital ou ser curado pelo SAMU
+  + Adicionado também as seguintes armas: AK-47, IMBEL IA2, Colt M4A1
+  + Fuzis IA2 (PMESP, BPRv) e M4A1 (PCESP) obtidos após chegar a 10.000 XP no time
+  + Fuzil AK-47 comprável em lojas ilegais
++ Novo Sistema de edição de personagem em times fardados com:
+  + Chapéus, capacetes;
+  + Braçais (PMESP, BPRv);
+  + Coletes (PMESP, BPRv, PCESP);
+  + Uniformes (Com Patches e Divisas de patente, dependente de XP e time)
++ Novo Sistema de Menu, com alteração de times, lista de players e configurações
++ Nova LoadingScreen
++ Novo menu principal com tutoriais e novas configurações
++ Sistema de buzina para consoles (R3)
++ Adicionado os veículos: Sprinter, R1250, Lander e XRE na concessionária
++ Adicionado novas viaturas:
+  + PMESP: Sprinter PMESP
+  + ROCAM: XRE ROCAM, R1250 ROCAM, Lander ROCAM
+  + FT: SW4, Chevrolet Trailblazer 2020, Chevrolet Trailblazer 2024, Chevrolet Blazer 2010/11
+  + TOR: Chevrolet Trailblazer 2020, Chevrolet Trailblazer 2024
+  + GARRA: SW4 GARRA, Chevrolet Trailblazer 2020 GARRA
++ Adicionado central de reportagem ESP News, próximo à mecânica vermelha, juntamente à Sprinter ESPNews
++ Seguintes interfaces foram remasterizadas:
+  + Concessionária, Iniciar turno, Contagem de prisão, Rádio emergencial (Ainda sem VOIP), Mecânica, Vendedor ilegal
++ Novo botão de pânico no rádio, utilizável por curto tempo após tomar dano
++ Adicionada animação à Mangueira do CBM
+
+# BUG FIXES
+- Corrigido bug de cair do carro ao sair dele
+- Corrigido bug de se prender dentro de obstáculos, veículo agora coloca o player acima do veículo se não houver espaço aos lados 
+
+# QOL (QUALITY OF LIFE)
++ Remodelagem dos seguintes veículos: 
+  + PMESP: Trailblazer, Spin, Duster
+  + PCESP: Pajero, Trailblazer
+  + BPRv: Spin, Duster
+  + CBM: Scania P360, VW Constellation, Ford Ranger, Chevrolet S10
++ Alterado giroflex e sirene das viaturas Trailblazer PMESP, PCESP
++ Alterado sistema DataStore para evitar perca de dados em shutdowns
++ Aumentado volume e distância das sirenes do CBM
+
+# MISC
++ Adicionado porta de saída lateral da concessionária
++ Alterada localização do Banco para o Bairro Novo
+  + Alterada simbologia do Banco para "Banco Box"
+- Removido Herobrine
+
 == Update a_0.1.26 == 06/07/26
 # ADIÇÕES
 -
