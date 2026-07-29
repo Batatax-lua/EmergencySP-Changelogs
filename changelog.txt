@@ -1,3 +1,37 @@
+== Updates b_1.0 à b_1.3 == 29/07/26
+# ADIÇÕES
++ Chevrolet Blazer Advantage PCESP
++ Barra de vida visível na interface do carro
++ Loja médica no hospital, bandagem por 950 (Cura 25 HP e estanca sangramento)
++ Adicionado rastreador de uptime do servidor, com reinício automático a cada 8 horas
+
+# BUG FIXES
+- Corrigido salvar/apagar kits de uniforme
+- Corrigido stamina não regenerar enquanto em um assento
+- Corrigido stamina ser gasta mesmo sem correr (Começar a correr e depois parar enquanto segurando o botão de correr)
+- Corrigido bug de stamina infinita
+- Corrigido console não conseguir selecionar chamados de apoio e pânico no rádio
+- Corrigido Kit Médico não estancar sangramento
+- Corrigido usabilidade do vestiário no console
+- Corrigidos chamados da CET aparecendo no rádio da PM
+- Corrigido conseguir mudar de time enquanto preso
+- Corrigida BMW R1250 utilizando sistema de sirene da PM
+- Corrigido spawn de viaturas do BPRv
+- Corrigidas buzinas de motos
+
+# QOL (QUALITY OF LIFE)
++ Corrigido erro ortográfico na mecânica ("SIM, CONCERTAR" → "SIM, CONSERTAR")
++ Reduzido dano dos fuzis (IA2: 15 → 11 | M4A1: 15 → 11 | AK-47: 19 → 14)
++ Painel de procurados volta a atualizar automaticamente (a cada 5 segundos)
++ Implementado autosave de estatísticas e proteções adicionais no DataStore para evitar perda de dados
++ Interface veicular redesenhada para ser menos intrusiva
++ Menu da mecânica agora sobrepõe corretamente os controles das viaturas
++ Aumentada a velocidade do efeito de pulsação da tela durante sangramento
++ Adicionado indicador de texto para sangramento
+
+# MISC
+- Removido Herobrine
+
 == Update b_1.0 == 26/07/26
 # ADIÇÕES
 + Companhia de Engenharia de Tráfego (CET)
