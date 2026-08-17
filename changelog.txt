@@ -1,3 +1,44 @@
+== Updates b_1.4 à b_1.5 == 17/08/26
+# ADIÇÕES
++ Adicionada Chevrolet Trailblazer 2024 Descaracterizada -> PCESP (12k XP)
++ Adicionado Taser às forças policiais, desbloqueado à partir de 1000 XP na guarnição
++ Adicionado sistema de perda de nível de procurado ( 1⭐ 1m30 | 2⭐ 2m30 | 3⭐ 3m30 )
++ Adicionado VOIP ao rádio, com controle de volume **(BETA)**
+  + PC: Segure Ctrl Esquerdo para transmitir via chat de voz
+  + Console & Mobile: Aperte o botão de transmissão do rádio para transmitir por voz, para apenas digitar, desabilite o microfone no Roblox
++ Adicionada Chevrolet Trailblazer Coral -> Força Tática
++ Adicionado sistema de incapacidade
+  + Ao ser morto, o player estará incapacitado, tendo a escolha entre aguardar assistência médica ou respawnar após 20 segundos
++ Adicionada loja ao menu, sendo possível comprar diretamente pelo jogo: Dinheiro, Boosts de XP (25%), e Gamepasses
++ Adicionados faróis aos veículos
++ Adicionados props de tráfego para a CET, contendo cones, barreiras, e uma placa de PARE/SIGA (Obtidos com 500XP)
++ Novos veículos: Chevrolet S10 SAMU (VIR), Chevrolet S10 CET, Ford Ranger CET
++ Adicionada opção de expulsar passageiros do próprio veículo **(BETA)**
+  + Disponível para quem está dirigindo, quem estiver em qualquer assento também pode sair remotamente pelo mesmo menu
++ Adicionada customização de acabamento dos veículos na oficina mecânica: Padrão, Metálico, Fosco e Sucata
++ Adicionado limite de vagas policiais (Polícia Militar, Rodoviária e Civil somadas), escalando com a quantidade de jogadores no servidor
+  + Indicador de vagas disponíveis no menu de times e nos empregos policiais, mudando de cor conforme as vagas diminuem
+
+# BUG FIXES
+- Arrumado velocímetro das motos
+- Arrumado não conseguir pintar a Chevrolet Trailblazer 2024 Descaracterizada
+- Arrumado bandagem não curando
+
+# QOL (QUALITY OF LIFE)
++ Alterada 4ª sirene da Trailblazer 2024 Descaracterizada
++ Aumentado volume e alcance das sirenes das motos CBMESP e ROCAM
++ Adicionado sistema visual e sonoro à C4 para indicar que irá explodir
++ Equipar uma C4 ativa o modo de combate
++ Adicionado indicação visual na borda da tela para indicar que o player tomou dano
++ Adicionados efeitos de baixa vida, iniciando em 25 HP
+  + Visão fica borrada e cinza conforme a vida abaixa, também tremendo e escurecendo a borda da vista
++ Adicionada sinalização vertical e horizontal ao mapa
+
+# MISC
++ Re-abilitado Teamkill para Cidadãos (Precisa estar em combate)
++ Alterado tempo de entrada em veículos para 0.5 segundos, o Player agora deve segurar o botão por 0.5 segundos para entrar em um veículo
+- Removido Herobrine
+
 == Updates b_1.0 à b_1.3 == 29/07/26
 # ADIÇÕES
 + Chevrolet Blazer Advantage PCESP
