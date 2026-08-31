@@ -4,6 +4,7 @@
 + Adicionado 1º Batalhão de Policiamento de Trânsito (PMESP) - Desbloqueável com 5.000 XP na Polícia Militar, em qualquer classe
 + Adicionadas as seguintes viaturas: Ford Ranger BPTran, Chevrolet Spin BPTran, Renault Duster BPTran, Chevrolet Trailblazer BPTran
 + Adicionado TEC-9 à loja ilegal (Pente com 32, cadência de tiro alta, dano baixo, R$6000)
++ Adicionado chapéu da Polícia Militar Rodoviária
 
 # BUG FIXES
 - Corrigido Taser não desequipar armas do player
