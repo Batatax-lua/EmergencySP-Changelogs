@@ -1,3 +1,17 @@
+== Update b_1.5.3 == 31/08/2026
+# ADIÇÕES
++ Adicionados os veículos: Hyundai Creta Ultimate, Chevrolet Corsa Sedan, Renault Duster 2026 -> Cidadão
++ Adicionada viatura: Renault Duster 2026 -> Polícia Civil
+
+# BUG FIXES
+- 
+
+# QOL (QUALITY OF LIFE)
++ 
+
+# MISC
+- Removido Herobrine
+
 == Update b_1.5.2 == 30/08/2026
 
 # ADIÇÕES
