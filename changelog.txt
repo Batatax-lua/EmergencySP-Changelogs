@@ -1,19 +1,20 @@
 == Update b_1.6 == 14/09/2026
 # ADIÇÕES
 + Adicionadas viaturas: Toyota Corolla Cross (Padrão Pixelado) -> PMESP (Radiopatrulha, 10k XP), Volkswagen Voyage (Descaracterizado) -> PCESP (Investigador, 4.8k XP)
-+ Adicionado fuzil ParaFAL 7.62x51 -> Vendedor Ilegal ($20k)
++ Adicionado fuzil ParaFAL 7.62x51 -> Vendedor Ilegal ($15k)
 + Adicionado fuzil SCAR-H 7.62x51 -> PMESP (Radiopatrulha: 25k XP | FT: 10k XP), PMRv (TOR: 10k XP) PCESP (GARRA, Padrão)
 
 # BUG FIXES
-- 
+- Corrigido valores incorretos mostrando no celular do emprego de entregador, agora constando valores corretos ($250, $450, $700)
 
 # QOL (QUALITY OF LIFE)
 + Reduzido dano da Tec-9 (9 -> 5.5)
 + Aumentado tempo de procurado (1⭐: 2m | 2⭐: 3m | 3⭐: 4m)
 + Aumentado dinheiro recebido via roubo ATM (75/150 -> 250/550)
 + Aumentado dinheiro recebido via roubo Banco (1000/2250 -> 1500/2500)
-+ Aumentado tempo de ProximityPrompt para coleta do ouro (3s -> 6s)
++ Aumentado tempo de ProximityPrompt para coleta do ouro (3s -> 4.5s)
 + Adicionado restrição de roubos (Necessário haver pelo menos 2 policiais para iniciar um roubo à ATM/Banco)
++ Reduzido preço da AK-47 ($13k -> $10k)
 
 # MISC
 + Alterado giroflex nas viaturas Chevrolet Trailblazer Coral (PMESP, FT, TOR), Toyota SW4 (FT, GARRA, BAEP, DPM)
