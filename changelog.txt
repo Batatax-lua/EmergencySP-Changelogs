@@ -1,3 +1,49 @@
+== Update b_1.7 == 17/10/2026
+# ADIÇÕES
++ Decorações de Halloween (Colete 15 doces espalhados pelo mapa para ganhar uma conquista exclusiva e R$40K)
++ Chevrolet Trailblazer 2026 (Cidadão -> R$110K | PMESP (Radiopatrulha -> 21k XP | FT -> 17k XP) | PCESP (Descaracterizada, Investigador -> 18k XP | GARRA -> 10k XP)
++ Jeep Commander (Cidadão -> R$150K | PMRv (Pixelada, TOR -> 8.5k XP | Onda, TOR -> 15k XP)
++ Creta Ultimate 2025 (Cidadão -> R$70K | PMESP (Radiopatrulha -> 17.5k XP)
++ Fiat Palio 2010 (PCESP, Investigador -> 3.2k XP)
++ Toyota SW4 2014 (PCESP, Investigador -> 6.4k XP)
++ BMW M5 2023 (Cidadão -> R$290K)
++ Porsche Cayenne 2018 (Cidadão -> R$891K)
++ Chevrolet Monza 1990 (Cidadão -> R$42K)
++ Toyota Corolla 2025 (PCESP Descaracterizado, Investigador -> 16k XP)
++ Fardamento PCESP (Investigador -> Descaracterizado | GARRA -> Camisa Leve, Camuflado Alternativo)
++ Fardamento PMESP (Radiopatrulha -> Capacete de Eventos, Colete Refletivo | FT -> Colete Força Tática Alternativo)
++ Fardamento PMRv (Patrulheiro Rodoviário, TOR -> Colete Refletivo)
++ Fardamento SAMU (Coletes -> Bolsa Médica)
++ Tools remodeladas (SAMU -> Kit Médico | Repórter ESP News -> Camera, Microfone)
++ Sistema de cumplice por passageiro procurado (Se você transportar um player procurado, você ficará procurado)
++ Botão de animações (Canto superior esquerdo)
++ Conquista CET (1K XP)
+
+# BUG FIXES
+- Corrigido confisco de dinheiro (Notificação aparece, 2 XP por dinheiro confiscado)
+- Corrigido motos ROCAM com sirene de viatura 4 rodas
+- Corridiga ragdoll esporádica ao morrer
+- Corrigido recarregar taser impedir de atirar
+- Corrigidos faróis (Sprinter ESP News, Spin PCESP, Duster PCESP)
+- Corrigido console não conseguir ligar farol (Triângulo / Y)
+- Corrigidos giroflex (Duster Descaracterizada, Spin Descaracterizada, Voyage Descaracterizada)
+- Corrigido passageiro ficar preso quando carro despawna
+- Corrigido animação de reparo permanente quando um veículo despawna durante reparo (CET)
+- Corrigido passageiro não escutar áudio de certos veículos
+
+# QOL (QUALITY OF LIFE)
++ Aumentada velocidade das Sprinter
++ Alterada buzina de viaturas descaracterizadas para coincidirem com veículos de cidadão
++ Adicionada notificação de impossibilidade de realizar roubos sem 2 policiais presentes
++ Aumentado volume das sirenes das motos ROCAM
+
+# MISC
+- Retirada colisão da plantação na fazenda
+- Adicionado prompt para sentar em bancos/cadeiras ao invés de automaticamente
+- Alteradas pedras para impossibilitar subida de motos
+- Alterada música do menu principal
+- Adicionados novos colaboradores aos créditos
+
 == Update b_1.6 == 14/09/2026
 # ADIÇÕES
 + Adicionadas viaturas: Toyota Corolla Cross (Padrão Pixelado) -> PMESP (Radiopatrulha, 10k XP), Volkswagen Voyage (Descaracterizado) -> PCESP (Investigador, 4.8k XP)
