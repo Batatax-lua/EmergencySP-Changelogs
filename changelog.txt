@@ -1,3 +1,66 @@
+== Update b_1.7.5 == 31/10/2026
+# ADIÇÕES
++ Chevrolet S10 2025 (PMESP (RadioPatrulha -> 21k XP)
++ Fiat Palio Weekend 2010 (PMRv (Patrulheiro -> 0 XP)
++ Creta Ultimate 2025 (PMRv (Patrulheiro -> 12k XP)
++ Chevrolet Trailblazer 2026 (PMRv (TOR -> 20k XP)
++ Volkswagen Voyage 2012 (PCESP (Investigador -> 6.2k XP)
++ Sprinter 2018 GRAU (CBM -> 2.5k XP) 
+
+# BUG FIXES
+- Corrigido LEDs azuis travados -> S10 BPRv
+
+# QOL (QUALITY OF LIFE)
++ Alterado giroflex dos Palios PCESP, PMESP, PMRv
+
+# MISC
+- Alterado XP necessário para desbloqueio da Chevrolet Spin 2019 BPRv (0 XP -> 1k XP)
+- ^ Players abaixo de 1k de XP que já possuem o veículo continuarão com ele, não será perdido.
+
+== Updates b_1.7.1 à b_1.7.4 =29/10/2026
+# ADIÇÕES
++ Adicionado Pontos de Ônibus no mapa
++ Adicionada nova Mecânica (ao lado do Posto de Gasolina)
++ Adicionado Kit de Primeiros Socorros (Bombeiros) | Agora Bombeiros podem curar jogadores quando unidades do Samu estiverem indisponíveis
++ Adicionado Bandagem Ilegal nos vendedores Ilegais
++ Adicionado Moto XT660 SAMU
++ Chevrolet S10 2025 (Cidadão -> R$240K | TOR -> 20k XP)
++ Fardamento Bombeiro - Capacete Moto CBM
++ Fardamento SAMU - Capacete Moto SAMU
++ Adicionado Bonés nos fardamentos (CET | ROCAM | SAMU | Bombeiro | Polícia Civil)
+
+# BUG FIXES
+- Corrigido bug do KitMédico não curar
+- Corrigido Respawnar estando nocauteado
+- Corrigido bug de morte pela C4
+- Corrigido bug de "Pente Infinito"/"Balas Infinitas"
+- Corrigido bug da animação em motos
+- Corrigido bug do "emote andando"
+- Corrigido reinício de servidores
+- Corrigido placa da BMW M5
+- Corrigido bug de hitbox da BMW M5
+- Corrigido Rodas desalinhadas do Jetta e BMW M5
+- Corrigido Roda do Corolla
+- Corrigido Creta Ultimate sem pintura
+- Corrigido Spoiler do Monza sem pintura
+- Corrigido Farol da XT660 dos Bombeiros
+- Corrigido Quebra Mato da S10 SAMU
+
+# QOL (QUALITY OF LIFE)
++ Alterado tempo de chamados de jogadores nocauteados para o Samu (15s -> 0s) | Agora o Samu recebe o chamado instantaneamente
++ Agora o tempo de respawnar nocauteado é alterado de acordo com unidades do Samu disponíveis | (Com Samu: 50 Segundos) | (Sem Samu: 20 Segundos)
++ Alterado tempo de respawn forçado caso ninguém te reanimar (1m30s -> 2m)
++ Adicionado distância de unidade do Samu enquanto nocauteado (Aproximadamente em metros)
++ Alterado tempo de cura com kits médicos ou kits Primeiros Socorros (2.5s -> 5s)
++ Agora BPTran e PCESP recebem taser sem requisito de XP
++ Aumentado volume das buzinas dos caminhões de bombeiro
++ Adicionado sirene Wail para as Viaturas - XT660
++ Alguns sistemas base foram otimizados (Estamos testando e analisando de acordo com a vida de cada servidor - ao decorrer desse fim de semana ainda haverá mudanças para otimizarmos mais e diminuir o lag)
+
+# MISC
++ Adicionado novos locais de chamados de incêndios
++ Agora quando servidores reiniciarem você é redirecionado para outro servidor
+
 == Update b_1.7 == 17/10/2026
 # ADIÇÕES
 + Decorações de Halloween (Colete 15 doces espalhados pelo mapa para ganhar uma conquista exclusiva e R$40K)
