@@ -1,3 +1,19 @@
+== Update b_1.7.6 == 05/11/2026
+# ADIÇÕES
++ Chevrolet S10 2025 (PCESP (GARRA -> 12k XP)
++ Toyota SW4 2021 (PMRv (TOR -> 15k XP) | Cidadão -> R$120k)
++ Toyota SW4 2021 Descaracterizada (PCESP (Investigador -> 24k XP)
++ Ford Ranger Descaracterizada (PCESP (Investigador -> 16k XP)
+
+# BUG FIXES
+- Corrigido falta de fumaça ao disparar as armas SCAR-H e ParaFAL
+
+# QOL (QUALITY OF LIFE)
++ 
+
+# MISC
+- Alterado som de disparo das armas: G17, IA2
+
 == Update b_1.7.5 == 31/10/2026
 # ADIÇÕES
 + Chevrolet S10 2025 (PMESP (RadioPatrulha -> 21k XP)
