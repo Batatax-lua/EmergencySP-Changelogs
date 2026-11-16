@@ -1,3 +1,25 @@
+== Update b_1.7.7.5 == 16/11/2026
+# ADIÇÕES
++ Hyundai Veloster (Cidadão -> R$60K [IMPORTADOS])
++ Iluminação de giroflex [TESTE]
++ Adicionado aviso de epilepsia ao entrar no jogo (6s)
+
+# BUG FIXES
+- Corrigido freio de mão ao sair do veículo
+- Corrigida animação de moto mesmo fora dela
+- Corrigido policiais não ficarem procurados após carregarem suspeitos
+
+# QOL (QUALITY OF LIFE)
++ Reduzida área de renderização (Min: 1024 -> 680 | Alvo: 2048 -> 1024)
++ Alterada renderização dos leds do giroflex (Servidor -> Cliente)
++ Reduzida distância de renderização dos leds do giroflex (Infinito -> 600)
++ Reduzida quantidade de partículas de batida (600 -> 60)
++ Reduzida quantidade de partículas por explosão de C4
++ Reduzida quantia de luzes com sombras
+
+# MISC
+- Anticheat atualizado
+
 == Update b_1.7.6 == 05/11/2026
 # ADIÇÕES
 + Chevrolet S10 2025 (PCESP (GARRA -> 12k XP)
